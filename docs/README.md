@@ -2,4 +2,4 @@
 
 Documents
 --------
-* [User Guide](SRF.md)
+* [SRF](SRF.md)
