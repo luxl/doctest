@@ -6,4 +6,4 @@ Documents
 .. toctree::
    :maxdepth: 16
 
-   doctest
+   SRF
